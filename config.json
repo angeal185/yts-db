@@ -1,0 +1,14 @@
+{
+  "base_url": "https://yts.mx/api/v2/",
+  "yts_url": "https://yts.mx",
+  "sub_url": "https://www.yifysubtitles.com",
+  "comments": {
+    "url": "https://www.intensedebate.com",
+    "cid": "42474d54bf68346d25c9c1822dfcf691",
+    "post_url": "https://angeal185.github.io/yts-comments",
+    "api": "/js/genericCommentWrapperV2.js"
+  },
+  "validate": [
+    "https://ghcdn.rawgit.org/angeal185/yts-db/master/db-status.json"
+  ]
+}
